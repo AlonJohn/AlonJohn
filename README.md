@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlonJohn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me alonjohn76@gmail.com 
 
