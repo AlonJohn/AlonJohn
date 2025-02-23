@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AlonJohn
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on web development 
+B.Tech Computer Science student interested in software development and testing. Enjoys building applications, finding bugs, and improving software quality. Always eager to learn and use new technologies.
 - 📫 How to reach me alonjohn76@gmail.com 
 
 <!---
